@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Yellow Orthic Shorthand 
 
-You can use the [editor on GitHub](https://github.com/yo-sh/yosh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Yellow Orthic Shorthand (also known as yo-sh or just yosh) is a variant of Orthic Shorthand. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where to start
 
-### Markdown
+The best place to learn is standard Orthic at https://orthic.shorthand.fun
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What's the difference
 
-```markdown
-Syntax highlighted code block
+There are many minor differences between Orthic and Yosh but there are three main deviations.
 
-# Header 1
-## Header 2
-### Header 3
+1. The letter V
+2. Word position
+3. Con- and -sion
 
-- Bulleted
-- List
+### The letter V
 
-1. Numbered
-2. List
+The letter **V** is troublesome in Orthic in that it the same a "ste" – a common enough string of letters to be confusing. In English there are only a few words where omitting the **V** would be ambigous; the most frequent are "move", "drive" and "live". In cases where a **V** mid-word would be useful it can me shown as a short vertical line above the word. A word starting with **V** is similar to **S** but written from the bottom of the line up. "Every" and "Very" have their own briefs.
 
-**Bold** and _Italic_ and `Code` text
+### Word postition
 
-[Link](url) and ![Image](src)
-```
+In order where a single syllable word can be written with multiple vowels they are differentiated by if they are written below the line or above. **I** is always above the line. **O** is always written below the line. **A** is generally witten above the line. **E** is usually written below the line but a noticable exption is "get" which is above.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Con- and -sion
 
-### Jekyll Themes
+A small circle at the beginning of a word represents "con-" or "com". The same symbol at the end of a word represents "-sion" or "-tion". Mid-word the symbol can be either.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yo-sh/yosh/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### More to come
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project will be futher detailed in the future. 
