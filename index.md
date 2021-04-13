@@ -1,4 +1,4 @@
-# Yellow Orthic Shorthand 
+# YOSH – Yellow Orthic Shorthand 
 
 Yellow Orthic Shorthand (also known as yo-sh or just yosh) is a variant of Orthic Shorthand. 
 
